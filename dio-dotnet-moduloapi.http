@@ -1,0 +1,6 @@
+@dio_dotnet_moduloapi_HostAddress = http://localhost:5104
+
+GET {{dio_dotnet_moduloapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
